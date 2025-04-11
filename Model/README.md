@@ -35,4 +35,4 @@ I have used multiple algorithms to for the predicton purpose such as Linear Regr
 ## Conclusion
 Given enough data the scores can be further improved.
 
-### By Anshal Singh
+### By Swayam Verma 
