@@ -1,0 +1,2 @@
+# SalaryScope
+Salary and predection
